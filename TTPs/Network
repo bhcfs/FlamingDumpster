@@ -1,1 +1,20 @@
 
+TTP(X) - Byte Analysis
+- Among of the open services we should have identified byte/databyte thresholds as anomalous
+- Using Kibana, we should have had predefined filters based on these thresholds (i.e. dashboards – e.g. HTTP Byte Analysis, DNS Byte Analysis, ICMP Byte Analysis (64 normal data, typically headers are 20 bytes… ) Additionally, we could have leveraged heatmaps to see which Ips might be experiencing high that normal volumes of a particular type of traffic
+
+TTP(X) – Gap Analysis
+- Firstly, we need to define clearly defined goals from this analysis. (There is the potential that the time required to perform is prohibitive to overall mission accomplishment within the mission time frame specified)
+	*** Talk about structures of GA:
+- “Documented Historic”, “Active Environment”, “Enumeration Snapshot”
+
+TTP(X) – Diffs on Network Device Configurations
+- During Site Survey, it would be helpful to get a list of network devices so that we can download default configuration files
+- While on site, import running AND starting configs for network devices
+–	Run diffs between running and starting configs AND default and starting configs
+
+*** add caveats to TTPS
+*** add kill-chain or framework step section to TTP
+*** make network side questionaire for site survey
+*** add “end state” section of TTP
+*** add mission area to TTP
