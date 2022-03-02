@@ -1,16 +1,25 @@
 # of Outstanding Tasks: 3
+# of In Work Tasks: 1
 
+
+OUTSTANDING TASKS:
 
 Some possible TTPs to still flesh out:
+
+#1
 
 TTP(X) - Byte Analysis
 - Among of the open services we should have identified byte/databyte thresholds as anomalous
 - Using Kibana, we should have had predefined filters based on these thresholds (i.e. dashboards – e.g. HTTP Byte Analysis, DNS Byte Analysis, ICMP Byte Analysis (64 normal data, typically headers are 20 bytes… ) Additionally, we could have leveraged heatmaps to see which Ips might be experiencing high that normal volumes of a particular type of traffic
 
+#2 - IN WORK - LOCATED AT ../NetworkTTP-GapAnalysis
+
 TTP(X) – Gap Analysis
 - Firstly, we need to define clearly defined goals from this analysis. (There is the potential that the time required to perform is prohibitive to overall mission accomplishment within the mission time frame specified)
 	*** Talk about structures of GA:
 - “Documented Historic”, “Active Environment”, “Enumeration Snapshot”
+
+#3
 
 TTP(X) – Diffs on Network Device Configurations
 - During Site Survey, it would be helpful to get a list of network devices so that we can download default configuration files
