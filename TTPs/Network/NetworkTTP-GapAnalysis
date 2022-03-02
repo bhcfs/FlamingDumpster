@@ -1,16 +1,36 @@
 TTP(X) - Gap Analysis
 
 ********************************************************************************************************************
-Purpose: 
+Purpose: (***this space is also being used for notes for now***)
 - To enumerate the MP network, and all relevant terrain and to compare with given previously known information (if any)
+  - Previously documented network information will be acquired from either MP (collected from Site Survey/FMAC)
+    - Network Map
+      - Does MP have terminating (a.k.a. intercepting) TLS proxies? Do or will we have access? (***for site questionaire***)
+      FOR COMPARISON:
+      - Verify by checking live hosts (ping sweep)
+        - Check with MP to see if there is any legitimate reason forICMP echo requests to be dropped on any live devices on network
+	  (Does not necessarily mean all live hosts on network will respond to ICMP)
+	  - Contingency: Syn scan
+	  
+    - Traffic enumeration
+      - PCAPs (cross-sectional)
+      - Flow Data
+    - Configuration information for Networking Devices
+      (This may be prohibitively difficult to get since some networks are managed through a third party)
+      
+      
 ********************************************************************************************************************
 
-- Firstly, we need to define clearly defined goals from this analysis. (There is the potential that the time required to perform is prohibitive to overall mission accomplishment within the mission time frame specified)
+
 	*** Talk about structures of GA:
 - “Documented Historic”, “Active Environment”, “Enumeration Snapshot”
 
 Dependencies: <Required criteria for TTP to be relevant, include caveats (if any)>
-#1 Identify if there is enough time to 
+#1 What are the goal(s) from this analysis?
+   - 
+#2 Will the time required to perform GAP Analysis be enough time to complete the analysis?
+
+#3 What has been previously documented
 
 Relevant Mission Area: <e.g. Hunt>
 
