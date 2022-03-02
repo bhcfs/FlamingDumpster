@@ -1,0 +1,41 @@
+***ALREADY UPDATED IN TTP/NETWORK/NETWORK_TTP_TEMPLATE FILE***
+
+
+********************************************************************
+How to use: 
+#1 When starting new TTP, create new file with the name of TTP and copy below contents into file
+#2 Replace content between angled brackets <> with content specific to new TTP 
+********************************************************************
+
+Network TTP Template:
+
+TTP(X) - <Name of TTP>
+
+Dependencies: <Required criteria for TTP to be relevant, include caveats (if any)>
+
+Relevant Mission Area: <e.g. Hunt>
+
+MITRE Tactic(s): <Relevant MITRE Tactics that can be observed with this TTP>
+
+MITRE Technique(s): <Relevant MITRE Techniques that can be observed with this TTP>
+
+End State: <Desired end state as a result of TTP, and/or deliverables (if any). What is the definition of done?>
+
+
+<Content>
+
+Question 1: <Format will be in Question to ask followed by approach to answer>
+ - 1st Approach (Step by Step on how to answer)
+   - Step 1:
+   ...
+ - 2nd Approach
+   - Step 1: 
+   ...
+
+Question 2: <Question 2>
+ - 1st Approach (Step by Step on how to answer)
+   - Step 1:
+   ...
+ - 2nd Approach
+   - Step 1: 
+   ...
