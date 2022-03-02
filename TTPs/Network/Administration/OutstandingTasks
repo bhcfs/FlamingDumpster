@@ -4,8 +4,6 @@
 
 OUTSTANDING TASKS:
 
-Some possible TTPs to still flesh out:
-
 #1
 
 TTP(X) - Byte Analysis
@@ -25,3 +23,7 @@ TTP(X) – Diffs on Network Device Configurations
 - During Site Survey, it would be helpful to get a list of network devices so that we can download default configuration files
 - While on site, import running AND starting configs for network devices
 –	Run diffs between running and starting configs AND default and starting configs
+
+#4 - IN WORK - LOCATED AT ./SiteSurveyQuestionaire-Network
+
+Write comprehensive list of questions of MP to give to Site Survey team with any required context to justify requests
