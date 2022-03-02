@@ -1,5 +1,43 @@
-TTP(X) – Gap Analysis
+TTP(X) - Gap Analysis
+
+********************************************************************************************************************
+Purpose: 
+- To enumerate the MP network, and all relevant terrain and to compare with given previously known information (if any)
+********************************************************************************************************************
+
 - Firstly, we need to define clearly defined goals from this analysis. (There is the potential that the time required to perform is prohibitive to overall mission accomplishment within the mission time frame specified)
 	*** Talk about structures of GA:
 - “Documented Historic”, “Active Environment”, “Enumeration Snapshot”
 
+Dependencies: <Required criteria for TTP to be relevant, include caveats (if any)>
+#1 Identify if there is enough time to 
+
+Relevant Mission Area: <e.g. Hunt>
+
+MITRE Tactic(s): <Relevant MITRE Tactics that can be observed with this TTP>
+
+MITRE Technique(s): <Relevant MITRE Techniques that can be observed with this TTP>
+
+End State: <Desired end state as a result of TTP, and/or deliverables (if any). What is the definition of done?>
+
+TTP Specific Context: 
+
+#1 
+
+<Content>
+
+Question 1: <Format will be in Question to ask followed by approach to answer>
+ - 1st Approach (Step by Step on how to answer)
+   - Step 1:
+   ...
+ - 2nd Approach
+   - Step 1: 
+   ...
+
+Question 2: <Question 2>
+ - 1st Approach (Step by Step on how to answer)
+   - Step 1:
+   ...
+ - 2nd Approach
+   - Step 1: 
+   ...
