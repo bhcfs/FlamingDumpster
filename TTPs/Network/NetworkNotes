@@ -20,3 +20,40 @@ TTP(X) – Diffs on Network Device Configurations
 *** make network side questionaire for site survey
 *** add “end state” section of TTP
 *** add mission area to TTP
+
+
+TTs:
+
+TO1, TT.a
+Investigate network traffic for exfiltration
+- Where did we fall short?
+
+TO1, TT.b
+Investigate network traffic for lateral movement
+
+
+TO1, TT.c
+Investigate network traffic for beaconing/C2
+
+
+TO1, TT.h (will only come into play later)
+Develop kill-chain analysis
+- Work with host team to combine information
+
+
+TO2, TT.a
+Perform network blocking mechanisms to stop MCA
+
+
+TO3, TT.a
+Recommend network security measures to prevent future MCA
+
+
+TO4, TT.a
+Confirm discovered MCA is no longer present in network traffic
+
+
+TO5, TT.a
+Confirm implementation of hardening actions through threat emulation
+
+
