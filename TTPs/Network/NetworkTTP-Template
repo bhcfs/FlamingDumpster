@@ -6,6 +6,8 @@ How to use:
 
 Network TTP Template:
 
+File Name in Git: .../TTPs/Network/NetworkTTP-<Name of TTP>
+
 TTP(X) - <Name of TTP>
 
 Dependencies: <Required criteria for TTP to be relevant, include caveats (if any)>
